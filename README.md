@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Firebase
 
-- 📫 How to reach me **himelmia535@gmail.com**
+- 📫 How to reach me **himelmir012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
