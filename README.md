@@ -78,7 +78,7 @@ Your ultimate travel companion! JourneyMaster allows users to:
 - Edit and delete entries effortlessly.  
 
 Explore the world and curate your travel experiences with ease!  
-🔗 [Visit JourneyMaster](https://journeymaster.netlify.app/)  
+🔗 [Visit JourneyMaster](https://journeymaster.netlify.app/)
 
 ---
 
@@ -89,7 +89,7 @@ Dive into the enchanting world of literature with SpellboundLibrary!
 - Discover your next favorite read with ease.  
 
 Indulge in the magic of storytelling.  
-🔗 [Explore SpellboundLibrary](https://spellboundlibrary.netlify.app/)  
+🔗 [Explore SpellboundLibrary](https://spellboundlibrary.netlify.app/)
 
 ---
 
@@ -100,10 +100,9 @@ Find your dream home with Fantasy Home!
 - Get personalized recommendations and expert guidance.  
 
 Your perfect home is just a click away.  
-🔗 [Discover Fantasy Home](https://fantasyhome.netlify.app/)  
+🔗 [Discover Fantasy Home](https://fantasyhome.netlify.app/)
 
 ---
 <p align="center">
    (❁´◡`❁) *Thank you for visiting my GitHub profile! Feel free to explore and connect.* (❁´◡`❁)
 </p>
-
