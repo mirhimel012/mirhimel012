@@ -71,9 +71,39 @@
 ---
 
 ### 🌟 **Featured Projects:**
-- 🚀 **[My Portfolio](#)** :
-- 🌐 **[Cool Web App](#)** : 
+#### 🗺️ **JourneyMaster** 🌍✨  
+Your ultimate travel companion! JourneyMaster allows users to:  
+- Add and manage detailed tourist spots.  
+- Create a personal list of favorite destinations.  
+- Edit and delete entries effortlessly.  
+
+Explore the world and curate your travel experiences with ease!  
+🔗 [Visit JourneyMaster](https://journeymaster.netlify.app/)  
 
 ---
 
-✨ *Thank you for visiting my GitHub profile! Feel free to explore and connect.* ✨
+#### 📚 **SpellboundLibrary** 📚✨  
+Dive into the enchanting world of literature with SpellboundLibrary!  
+- Browse a curated collection of books across genres.  
+- Manage your personal library effortlessly.  
+- Discover your next favorite read with ease.  
+
+Indulge in the magic of storytelling.  
+🔗 [Explore SpellboundLibrary](https://spellboundlibrary.netlify.app/)  
+
+---
+
+#### 🏡 **Fantasy Home** 🏡✨  
+Find your dream home with Fantasy Home!  
+- Browse comprehensive property listings.  
+- Use interactive maps and virtual tours.  
+- Get personalized recommendations and expert guidance.  
+
+Your perfect home is just a click away.  
+🔗 [Discover Fantasy Home](https://fantasyhome.netlify.app/)  
+
+---
+<p align="center">
+   (❁´◡`❁) *Thank you for visiting my GitHub profile! Feel free to explore and connect.* (❁´◡`❁)
+</p>
+
