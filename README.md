@@ -15,7 +15,7 @@
 - 🌱 I’m a **Computer Science and Engineering** student with a passion for web development.
 - 🚀 Currently diving into **Express.js** to level up my backend skills.
 - ✨ Love solving problems, crafting beautiful UIs, and learning new tools.
-- 📧 Reach out to me via email: **[himelmir012@gmail.com](mailto:himelmir012@gmail.com)**
+- 📧 Reach out to me via email: **<a href="mailto:himelmir012@gmail.com" target="_blank">himelmir012@gmail.com</a>**
 
 ---
 
@@ -78,7 +78,7 @@ Your ultimate travel companion! JourneyMaster allows users to:
 - Edit and delete entries effortlessly.  
 
 Explore the world and curate your travel experiences with ease!  
-🔗 [Visit JourneyMaster](https://journeymaster.netlify.app/)
+🔗 <a href="https://journeymaster.netlify.app/" target="_blank">Visit JourneyMaster</a>
 
 ---
 
@@ -89,7 +89,7 @@ Dive into the enchanting world of literature with SpellboundLibrary!
 - Discover your next favorite read with ease.  
 
 Indulge in the magic of storytelling.  
-🔗 [Explore SpellboundLibrary](https://spellboundlibrary.netlify.app/)
+🔗 <a href="https://spellboundlibrary.netlify.app/" target="_blank">Explore SpellboundLibrary</a>
 
 ---
 
@@ -100,7 +100,7 @@ Find your dream home with Fantasy Home!
 - Get personalized recommendations and expert guidance.  
 
 Your perfect home is just a click away.  
-🔗 [Discover Fantasy Home](https://fantasyhome.netlify.app/)
+🔗 <a href="https://fantasyhome.netlify.app/" target="_blank">Discover Fantasy Home</a>
 
 ---
 <p align="center">
